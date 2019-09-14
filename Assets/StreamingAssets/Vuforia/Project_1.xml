@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MySideoftheMountainBackCover" size="1.803400 1.277171" />
+    <ImageTarget name="MySideoftheMountain" size="0.180340 0.254631" />
+  </Tracking>
+</QCARConfig>
